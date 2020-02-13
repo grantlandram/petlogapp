@@ -1,2 +1,2 @@
 # petlogapp
-PetLog Next.js App
+PetLog app for logging outdoor pet trips. 
